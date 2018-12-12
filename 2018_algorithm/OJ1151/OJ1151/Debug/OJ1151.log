@@ -1,0 +1,8 @@
+﻿  main.c
+d:\2018_algorithm\oj1151\oj1151\main.c(25): warning C4133: 'return': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+d:\2018_algorithm\oj1151\oj1151\main.c(23): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\2018_algorithm\oj1151\oj1151\main.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+d:\2018_algorithm\oj1151\oj1151\main.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  OJ1151.vcxproj -> D:\2018_algorithm\OJ1151\Debug\OJ1151.exe

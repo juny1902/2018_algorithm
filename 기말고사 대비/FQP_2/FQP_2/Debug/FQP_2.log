@@ -1,0 +1,4 @@
+﻿  FQP.cpp
+c:\users\juny1\source\repos\fqp_2\fqp_2\fqp.cpp(99): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  FQP_2.vcxproj -> C:\Users\juny1\source\repos\FQP_2\Debug\FQP_2.exe

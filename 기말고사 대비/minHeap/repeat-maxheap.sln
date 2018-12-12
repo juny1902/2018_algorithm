@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "repeat-maxheap", "repeat-maxheap\repeat-maxheap.vcxproj", "{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Debug|x64.ActiveCfg = Debug|x64
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Debug|x64.Build.0 = Debug|x64
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Debug|x86.Build.0 = Debug|Win32
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Release|x64.ActiveCfg = Release|x64
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Release|x64.Build.0 = Release|x64
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Release|x86.ActiveCfg = Release|Win32
+		{9AC9D3C5-D04C-4782-8043-FB30CDF9BBBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A9BBF79-3501-4A51-B120-EE06CAB63103}
+	EndGlobalSection
+EndGlobal
