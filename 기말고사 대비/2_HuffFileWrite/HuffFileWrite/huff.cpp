@@ -165,6 +165,7 @@ LETTER *deleteFromHeap() {
 	}
 	return ret;
 }
+
 LETTER *make_tree(LETTER *FIRST, LETTER *SECOND) {
 	LETTER *NEW = make_letter_node(0);
 	NEW->freq = FIRST->freq + SECOND->freq;
